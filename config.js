@@ -23,10 +23,11 @@ global.location = '1' //Ganti Pake Location Panel Lu
 //===========================//
 
 global.prefa = ['','!','.',',','🐤','🗿']
-global.owner = ['254742491666']
+global.owner = ['254710665116']
 global.ownMain = '254742491666'
 global.NamaOwner = '𝕶𝖎𝖓𝖌 𝕾𝖆𝖒' //gausah diganti 
-global.sessionName = 'spidersession'
+global.sessionName = '{"noiseKey":{"private":{"type":"Buffer","data":"8LR5u5cMqaeNg4EOUIT/rx2ImrysPIoK36OAPwG3/Fc="},"public":{"type":"Buffer","data":"Q4BIT2r0Xy/CwWdM4dwZwSZKqe+nNMWi7XzfkxYFFzk="}},"pairingEphemeralKeyPair":{"private":{"type":"Buffer","data":"kBheE9ReR+H/RBqQmauZnvZnFnxugCHz0ctFPaMGnGQ="},"public":{"type":"Buffer","data":"/qIXVyuQY/ueY0k6qHxpIocfxBvI0yBsMyHBmEwmPgU="}},"signedIdentityKey":{"private":{"type":"Buffer","data":"YH9qMlxcC+0x7se8pN/AOaiPegAcTra3XMjf1LTRNkc="},"public":{"type":"Buffer","data":"bPjA7DaXsAJSaOW2hWXBmzsnlF1YOqD22gZADM4pTg8="}},"signedPreKey":{"keyPair":{"private":{"type":"Buffer","data":"sECFLSJWbu/aAsPiTONO9SN3C8eaY7UeF7ak8udVLnQ="},"public":{"type":"Buffer","data":"DkLiuwSUtyeiya2ouGsVbU+W/1FEP2nphYiuPQVDEAA="}},"signature":{"type":"Buffer","data":"TbpM+JWMW8rXrxmD0pa6I/I+jZuAwdcHiYwlUYAER/vn1IV2HJdNRTDctUu0hB3lQRgr3HIxdUu6gTeU9kZ9BA=="},"keyId":1},"registrationId":200,"advSecretKey":"qSOBlawcL30CSpIFkYLh8ehaQFzw8GTWnE9zKoPqhU0=","processedHistoryMessages":[],"nextPreKeyId":31,"firstUnuploadedPreKeyId":31,"accountSyncCounter":0,"accountSettings":{"unarchiveChats":false},"deviceId":"Vr7_64xYRkGAHa1N4isovQ","phoneId":"d4abb629-3cf3-41d5-984a-383d1873e631","identityId":{"type":"Buffer","data":"SuTirDs1tx0/Yg0Q96UjF7iu0w0="},"registered":true,"backupToken":{"type":"Buffer","data":"A07oF+JE8VDnM4JngR3MCzz/sdg="},"registration":{},"pairingCode":"ZSFYG8ED","me":{"id":"254710665116:69@s.whatsapp.net"},"account":{"details":"CKay/f0CEIjV0bcGGAMgACgA","accountSignatureKey":"iH0Dunn1rDvwz/dAw4gKBEvsrXwUU5gTJyD7UaGDcTc=","accountSignature":"4PkFpbIEhgYNSsEj58oPFahhxssZDDC8L+lzYtYLG7IKr6+fJoeYAF5UJHKQEEQBVs9wI5kJGt73iA3TVu4yDA==","deviceSignature":"Ql+gjdpgrEHCI++lpjLlU97gJbTyMK+5R5HUonP2yzCSt/ZLQN4KjiWf6EAX/7SEec3oxNZDeFMfSLo0KVbfAA=="},"signalIdentities":[{"identifier":{"name":"254710665116:69@s.whatsapp.net","deviceId":0},"identifierKey":{"type":"Buffer","data":"BYh9A7p59aw78M/3QMOICgRL7K18FFOYEycg+1Ghg3E3"}}],"platform":"android","lastAccountSyncTimestamp":1727294101,"myAppStateKeyId":"AAAAAK9n"}
+'
 global.connect = true // Ubah Ke False Jika Ingin Menggunakan Qr Code
 global.namabot = '𝐒𝐏𝐈𝐃𝐄𝐑-𝐕4' //ganti aj klo mau
 global.author = '𝕶𝖎𝖓𝖌 𝕾𝖆𝖒' //ganti aj klo mau
